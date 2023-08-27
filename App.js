@@ -1,8 +1,8 @@
 /********* Magic Word Book *********
- * The Menagerie of Mashed-up Tales
- * Project Name: Expo Template
+ * Zoom-In Flashcards
+ * Project Name: zoominflash
  * Version 0.0.1
- * Developed by RSR & JBW
+ * Developed by RSR
  * 2023
  * Description: 
  ***********************************/
